@@ -4,9 +4,9 @@ package com.ubs.opsit.interviews.formatters;
 
 public class FinalOutputBuilder {
 
-	private static int HOURS ;
-	private static int MINUTES;
-	private static int SECONDS;
+	private int HOURS ;
+	private int MINUTES;
+	private int SECONDS;
 	
 	
 	public FinalOutputBuilder(String aTime) {
